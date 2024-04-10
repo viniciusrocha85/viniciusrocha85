@@ -9,9 +9,8 @@ Tenho 23 anos, moro em Fortaleza/CE, sou apaixonado por explorar dados para extr
 ## Contatos:
 <div>
 <a href="https://instagram.com/jviniciusar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/viniciusrocha--/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:viniciusrocha6272@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="mailto:viniciusrocha6272@gmail.com"> <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="tel:85991586272"><img loading="lazy" src="https://img.shields.io/badge/Telefone-99158-6272?style=for-the-badge&logo=phone&logoColor=white" target="_blank">
 </a>
 
 </div>   
